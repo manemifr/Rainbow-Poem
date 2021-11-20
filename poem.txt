@@ -1,0 +1,4 @@
+green
+yellow
+red
+are colors of senegalese flag.
